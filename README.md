@@ -1,2 +1,3 @@
 # GCET-COLLEGE-IT1-Time-Table
-HTML Web Development
+HTML Web Developmente
+Basic Web Designing
